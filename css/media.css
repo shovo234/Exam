@@ -1,0 +1,52 @@
+@media (max-width: 991px) {
+    .run-over h1{
+        font-size: 50px;
+    }
+    .btn-custom{
+        background: black;
+        color: #fff;
+        padding:  10px 20px;
+       
+     }
+ 
+}
+@media (max-width: 767px) {
+    .run-over h1{
+        font-size: 40px;
+    }
+    .btn-custom{
+        background: black;
+        color: #fff;
+        padding:  5px 12px;
+       
+     }
+     .snow h1{
+         font-size: 35px;
+     }
+     .snow p{
+         font-size: 15px;
+        
+     }
+     .bannertwo h1{
+        font-size: 30px;
+    }
+ 
+   
+}
+
+@media (max-width: 575px) {
+    .run-over{
+        margin-top: 200px;
+    }
+    .run-over h1{
+        font-size: 40px;
+    }
+    .btn-custom{
+        background: black;
+        color: #fff;
+        padding:  5px 12px;
+       
+     }
+}
+
+
